@@ -1,4 +1,4 @@
-name: tf-module-release
+name: Tagged Module Release
 on:
   pull_request:
     types: [closed]
